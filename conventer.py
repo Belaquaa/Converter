@@ -260,7 +260,7 @@ def delete(event=None):																		#
 #																							#
 #																							#
 #																							#
-Button_delete = Button(root, text = '        🗑️',											#
+Button_delete = Button(root, text = '     🗑️',											    #
 					   font = (12), 														#
 				  	   foreground = 'DarkViolet', 											#
 				   	   activeforeground = 'OrangeRed', 										#
